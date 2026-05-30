@@ -1,4 +1,4 @@
-Usman
+admin
 1234
 12935
-usman@uet.com
+admin@uet.com
